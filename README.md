@@ -7,7 +7,7 @@
 
 This project is a part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-**[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDFhMmI5MWUtZDUzNi00M2Q2LWE3YzItYzRmZmFkZWI0YzJhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
+**[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY3ZDkyNmYtMDg3Mi00ODc1LWJlOTQtYjdjZWU2MjJiMjhhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
 
 
 **[Video Presentation](https://youtu.be/8ZxUB6leoLM)**
